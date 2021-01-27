@@ -4,17 +4,11 @@ body{
 .submit-area{
     margin-top: 50px;
     border-radius: 10px;
-    padding: 40px;
     box-shadow: 5px 5px 10px gray;
+    padding: 40px;
 }
 #transaction-area{
     display: none;
-}
-.status{
-    margin: 0px 20px;
-    color: white;
-    padding: 20px;
-    border-radius: 10px;
 }
 .deposit{
     background-color: slateblue;
@@ -24,4 +18,10 @@ body{
 }
 .balance{
     background-color: orange;
+}
+.status{
+    padding: 20px;
+    margin: 0px 20px;
+    border-radius: 10px;
+    color: white;
 }
